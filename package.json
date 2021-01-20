@@ -7,7 +7,7 @@
     "pm2dev": "pm2 start npm --name 'nuxt-project' -i 8 --watch -- run dev",
     "build": "nuxt build",
     "start": "nuxt start",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "nuxt build"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.11.0",
