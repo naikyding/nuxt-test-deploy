@@ -2,7 +2,7 @@
   <v-layout column justify-center align-center>
     <v-flex xs12 sm8 md6>
       <div class="text-center">
-        <h1>TEST AUTO DEPLOY TAKE2</h1>
+        <h1>TEST AUTO DEPLOY TAKE3</h1>
         <logo />
         <vuetify-logo />
       </div>
